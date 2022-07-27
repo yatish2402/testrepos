@@ -90,7 +90,7 @@ void insert( int a[], int *n, int pos, int ele)
         (*n)++; 
        } 
     }
-void delete (int a[], int *n, int pos) 
+void delete(int a[], int *n, int pos) 
 { 
     int i=0; 
     if(*n==0) 
